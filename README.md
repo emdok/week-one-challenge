@@ -4,7 +4,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - We refactored the Horiseon Social Solution Services page in order to be more accessible for SEO Purposes. We updated Alt Text on images, refactored HTML to use semantic HTML5 Elements, added a descriptive title, and paired down the CSS.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
