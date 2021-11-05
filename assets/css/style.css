@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* Header and Navigation Styles */
 
 header {
@@ -43,13 +52,16 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+/* Header style ends */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-p {
-    font-size: 16px;
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Hero Styles */
@@ -63,15 +75,9 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* Hero Styles End */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+
 
 /* Content Section Styles */
 
