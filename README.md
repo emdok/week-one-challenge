@@ -19,10 +19,9 @@ You can view this page at this Github Pages Link: https://emdok.github.io/run-bu
 
 Screenshots of the finished website:
 
-    ```md
-    ![Screenshot of top of Website](assets/images/screenshot-1.png)
-    ![Screenshot of top of Website](assets/images/screenshot-2.png)
-    ```
+![Screenshot of top of Website](./assets/images/screenshot-1.jpg)
+![Screenshot of top of Website](./assets/images/screenshot-2.jpg)
+
 ## Credits
 
 Collaborators: Emily Dokken 
