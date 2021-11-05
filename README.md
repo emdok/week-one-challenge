@@ -24,9 +24,9 @@ Screenshots of the finished website:
 
 ## Credits
 
-Collaborators: Emily Dokken 
-GitHub Profile: https://github.com/emdok
-Assignment: https://courses.bootcampspot.com/courses/939/assignments/18761?module_item_id=336113 
+- Collaborators: Emily Dokken 
+- GitHub Profile: https://github.com/emdok
+- Assignment: https://courses.bootcampspot.com/courses/939/assignments/18761?module_item_id=336113 
 
 ## License
 
@@ -54,6 +54,12 @@ SOFTWARE.
 
 ## Tests
 
-You can test this page using Chrome's Web Developer Tools, specifically their Lighthouse Tool:
+You can test this page using Chrome's Web Developer Tools, specifically their Lighthouse Tool after opening the page:
+
+1. Head to the GitHub Page for the website here: https://emdok.github.io/run-buddy/ 
+2. Open Chrome Dev Tools
+3. Select LightHouse
+4. Select Accessibility
+5. Click Generate Report
 
 https://developers.google.com/web/tools/lighthouse 
