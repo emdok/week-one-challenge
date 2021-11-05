@@ -9,6 +9,7 @@ We refactored the Horiseon Social Solution Services page in order to be more acc
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Tests](#tests)
 
 ## Installation
 
